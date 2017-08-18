@@ -11,4 +11,4 @@
  import App from './src/App.js'
 
 
- AppRegistry.registerComponent('React Navigation Style', () => App);
+ AppRegistry.registerComponent('RNTransitions', () => App);
